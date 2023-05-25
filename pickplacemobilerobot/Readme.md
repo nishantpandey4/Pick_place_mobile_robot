@@ -2,13 +2,7 @@ This folder is created for project-2 of ENPM 662 (Introduction to Robot Modellin
 
 This folder consists of following folders:
 
-1.CAD files - Contains part files (.sldprt), assembly files (.sldasm) of the robot model. 
-
-2.Package - Contains another folder named as robot that can be copy pasted in catkin_ws/src. 
-
-3.Presentation - Presentation given during class
-
-4.Report - Report of the project in .pdf format.
+Package - Contains another folder named as robot that can be copy pasted in catkin_ws/src. 
 
 robot folder contains of multiple folders with following description:
 
@@ -56,7 +50,10 @@ The following sequence of scripts should be run to obtain the pick and place of 
 
 roslaunch 04-diff_drive_robot_arm.launch --> python3 diff_control.py --> python3 arm_control.py --> python3 grasp.py --> go_home.py
  
-Video of the Results can be accessed through this drive link:
-The results obtained and verification are in this link:
+Video of the Result:
 
-[label](../pick_and_place.mkv)
+
+https://github.com/nishantpandey4/Pick_place_mobile_robot/assets/127569735/30d01b9a-f4ea-4732-a608-fe4c0278345a
+
+
+
