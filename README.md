@@ -1,4 +1,5 @@
-This folder is created by Nishant Awdeshkumar Pandey and Rishikesh Jadhav respectively.
+### Author
+Nishant Awdeshkumar Pandey and Rishikesh Jadhav.
 
 This folder consists of the following folders:
 
