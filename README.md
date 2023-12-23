@@ -50,8 +50,11 @@ To run these codes open in the terminal the scripts folder and run the python3 <
 The following sequence of scripts should be run to obtain the pick and place of an object:
 
 ```roslaunch 04-diff_drive_robot_arm.launch --> python3 diff_control.py --> python3 arm_control.py --> python3 grasp.py --> go_home.py```
+
+### Report 
+[Report]()
  
-Videos of the Results:
+### Videos of the Results:
 
 Drive link for all the videos:
 https://drive.google.com/drive/folders/1QW7Eak2PbWma0Tb0El4jjWCQnswvXPuF
