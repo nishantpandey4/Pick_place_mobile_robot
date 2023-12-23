@@ -52,7 +52,7 @@ The following sequence of scripts should be run to obtain the pick and place of 
 ```roslaunch 04-diff_drive_robot_arm.launch --> python3 diff_control.py --> python3 arm_control.py --> python3 grasp.py --> go_home.py```
 
 ### Report 
-[Report]()
+[Report](https://github.com/nishantpandey4/Pick_place_mobile_robot/blob/main/Report%20.pdf)
  
 ### Videos of the Results:
 
