@@ -1,23 +1,9 @@
 ### Pick Place Mobile Robot
-This peoject was made by Nishant Awdeshkumar Pandey and Rishikesh Jadhav.
+This project was made by Nishant Awdeshkumar Pandey and Rishikesh Jadhav.
 This folder consists of the following folders:
 Package - Contains another folder named a robot that can be copy pasted in catkin_ws/src. 
 
-robot folder contains multiple folders with the following description:
-
-1. congif - contains .yaml files for controllers.
-
-2. launch - contains .launch files to spawn the bot in Gazebo, RViz.
-
-3. meshes - contains .dae files for various parts of the bot
-
-4. scripts - contains various .py files to move the bot (publisher, subscriber nodes).
-
-5. urdf - contains .xacro file of the bot
-
-6. worlds - .world in which the bot is spawned in Gazebo
-
-There are various scripts as follows:
+### There are various scripts as follows:
 
 1. teleop.py - control the movement of the bot using the teleop
 
@@ -27,7 +13,7 @@ There are various scripts as follows:
 
 4. diff_control.py - to control the differential drive of the robot and make it stop just before the goal using a closed-loop controller
 
-5. go_home.py - to go back to home position of the bot i.e. origin after pick and place operation.
+5. go_home.py - to go back to the home position of the bot i.e. origin after pick and place operation.
 
 6. grasp.py - to grasp an object using the gripper
 
