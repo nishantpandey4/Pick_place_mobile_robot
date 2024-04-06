@@ -1,8 +1,6 @@
-### Author
-Nishant Awdeshkumar Pandey and Rishikesh Jadhav.
-
+### Pick Place Mobile Robot
+This peoject was made by Nishant Awdeshkumar Pandey and Rishikesh Jadhav.
 This folder consists of the following folders:
-
 Package - Contains another folder named a robot that can be copy pasted in catkin_ws/src. 
 
 robot folder contains multiple folders with the following description:
